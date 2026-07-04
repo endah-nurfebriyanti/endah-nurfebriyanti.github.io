@@ -1,61 +1,137 @@
-# [Your Name] - Data Analysis Portfolio
+# Endah Nurfebriyanti – Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to my Data Analysis Portfolio!
 
-## About This Portfolio Template
+This repository contains the source code for my personal portfolio website, built with HTML, CSS, and JavaScript, and hosted on GitHub Pages. It showcases my background, technical skills, data analytics projects, dashboards, and professional experience.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+---
 
-## 🚀 Projects
+## 👩‍💻 About Me
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+Hello! I'm **Endah Nurfebriyanti, M.Si.**, a Mathematics graduate with a strong interest in **Data Analytics, Business Intelligence, Data Visualization, and Decision Support Systems**.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+Currently, I work as a lecturer while continuously developing my expertise in transforming raw data into meaningful insights through statistical analysis, interactive dashboards, and data-driven storytelling.
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+I enjoy solving real-world problems using data and continuously learning modern analytics tools and technologies.
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+---
 
+## 🚀 Featured Projects
 
-## 🛠️ Skills
+### 📊 Gold Investment Decision Support System
+Developed a decision support system for selecting the best gold investment alternatives using **Fuzzy TOPSIS** and **Entropy Weighting** methods. The project includes comprehensive data analysis and interactive visualization.
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+**Tools:** Python, Excel, Fuzzy TOPSIS, Entropy Weighting
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+---
 
-## 💡 How to Use This Template
+### 📈 Sales Performance Dashboard
+Designed an interactive business dashboard to monitor sales performance, product trends, customer behavior, and regional performance.
 
-Creating your own portfolio from this template is a simple, four-step process.
+**Tools:** Power BI, Excel, DAX, Power Query
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+---
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+### 📉 Data Analytics Portfolio Projects
+A collection of exploratory data analysis (EDA), visualization, statistical analysis, and dashboard projects using real-world datasets.
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+**Tools:** Python, Pandas, Matplotlib, SQL, Power BI
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+---
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+## 🛠️ Technical Skills
+
+### Programming & Analysis
+- Python
+- SQL
+- Microsoft Excel
+- Pandas
+- NumPy
+
+### Data Visualization
+- Power BI
+- Matplotlib
+- Excel Dashboard
+
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Statistical Analysis
+- Data Storytelling
+- Business Intelligence
+
+### Mathematical Modeling
+- Fuzzy Logic
+- Fuzzy TOPSIS
+- Multi-Criteria Decision Making (MCDM)
+- Entropy Weighting
+- Decision Support Systems
+
+### Tools
+- Git & GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## 🎓 Education
+
+**Master of Mathematics (M.Si.)**
+
+Specialized in Mathematics with research interests in decision support systems, fuzzy systems, optimization, and data analysis.
+
+---
+
+## 💼 Professional Experience
+
+- Lecturer in Primary School Teacher Education (PGSD)
+- Researcher in Applied Mathematics and Decision Support Systems
+- Data Analytics Enthusiast
+
+---
+
+## 🌱 Current Learning
+
+I am continuously improving my skills in:
+
+- Advanced Data Analytics
+- Machine Learning
+- Business Intelligence
+- Interactive Dashboard Development
+- Data Science with Python
+- Mathematical Optimization
+- Operations Research
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/endah-nurfebriyanti-5b8200134/
+- **GitHub:** https://github.com/EndahNurfebriyanti
+- **Email:** *(add your professional email here)*
+
+---
+
+## 🌐 Portfolio Website
+
+Visit my online portfolio:
+
+**https://endahnurfebriyanti.github.io/**
+
+---
+
+## ⭐ Repository Purpose
+
+This repository serves as my professional portfolio to demonstrate my capabilities in:
+
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Statistical Analysis
+- Mathematical Modeling
+- Decision Support Systems
+- Problem Solving with Data
+
+Thank you for visiting my portfolio. Feel free to explore my projects and connect with me!
