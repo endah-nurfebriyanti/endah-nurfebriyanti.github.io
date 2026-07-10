@@ -44,8 +44,8 @@ Designed and developed an interactive business intelligence dashboard to analyze
 
 **Tools:** Google Looker Studio, Microsoft Excel
 
-🔗 **Repository:** *(Add your GitHub repository link here)*  
-📊 **Live Dashboard:** *(Add your Looker Studio dashboard link here)*
+🔗 **Repository:** *https://github.com/endah-nurfebriyanti/ecommerce-global-sales-dashboard*  
+📊 **Live Dashboard:** *https://datastudio.google.com/u/0/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2/page/4JH0F*
 
 ---
 
